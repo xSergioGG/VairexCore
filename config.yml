@@ -1,0 +1,14 @@
+custommessages:
+  join:
+    toggled: true
+    msg: '&e%player% &7ha entrado a el Lobby.'
+    worlds:
+      - lobby
+      - spawn
+      
+blocked-commands:
+- /fly
+  msg: '&cEste Comando no existe.'
+  whitelist:
+  - lobby
+  - spawn

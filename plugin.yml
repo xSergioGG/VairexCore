@@ -1,0 +1,25 @@
+name: VairexCore
+main: me.zsergio.vairexcore.Main
+version: Final
+author: zSergio
+
+commands:
+  warp:
+  
+  setwarp:
+  
+  delwarp:
+
+  gamemode:
+  
+  gm:
+  
+  tphere:
+  
+  kick:
+  
+  vanish:
+
+  staff:
+  
+  freeze:
